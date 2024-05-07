@@ -1,4 +1,4 @@
-# Computer-Networking-Project---MatLab
+# Computer-Networking-Project---
 * Communications and Information Engineering
 * Team Project
 * In this project, we will implement a transport protocol that provides some reliability services
